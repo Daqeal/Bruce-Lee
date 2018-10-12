@@ -1,2 +1,1 @@
-# Bruce-Lee
-For RHEL
+#All for one
